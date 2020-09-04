@@ -1,0 +1,8 @@
+export const actionTypes = {
+    CITY_LIST: Symbol('CITY_LIST'),
+    GET_CITY_WEATHER: Symbol('GET_CITY_WEATHER'),
+    SET_CITY_WEATHER: Symbol('SET_CITY_WEATHER'),
+    GET_WEATHER_FOREAST: Symbol('GET_WEATHER_FOREAST'),
+    SET_WEATHER_FOREAST: Symbol('SET_WEATHER_FOREAST'),
+    CITY_IDS: Symbol()
+};
